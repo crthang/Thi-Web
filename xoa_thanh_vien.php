@@ -1,3 +1,4 @@
+hi
 <?php 
  include('cau_2.php');
     $id=$_GET['id'];
